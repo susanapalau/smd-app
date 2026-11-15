@@ -1,6 +1,6 @@
 # smd-app
 
-Personal finance ledger for the terminal.
+Personal finance ledger for the terminal: balances, spending and monthly reports from a CSV file.
 
 ## Run it
 
@@ -13,6 +13,6 @@ Personal finance ledger for the terminal.
 - A database instead of a CSV file
 - A web API and a dashboard
 
-    ## Author
+## Author
 
 susanapalau
